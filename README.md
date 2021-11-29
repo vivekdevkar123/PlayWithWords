@@ -20,10 +20,10 @@ Please make sure to update tests as appropriate.
 # screenshots
 
 ### screenshot 1
-![screenshot](/screenshot/screenshot_1.png)
+![screenshot](/ScreenShot/Screenshot_1.png)
 
 ### screenshot 2
-![screenshot](/screenshot/screenshot_2.png)
+![screenshot](/ScreenShot/Screenshot_2.png)
 
 
 
