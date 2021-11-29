@@ -20,13 +20,11 @@ Please make sure to update tests as appropriate.
 # screenshots
 
 ### screenshot 1
-![screenshot](/screenshot/screenshot_01.png)
+![screenshot](/screenshot/screenshot_1.png)
 
 ### screenshot 2
-![screenshot](/screenshot/screenshot_02.png)
+![screenshot](/screenshot/screenshot_2.png)
 
-### screenshot 3
-![screenshot](/screenshot/screenshot_03.png)
 
 
 ## Contact
